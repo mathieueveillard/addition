@@ -1,17 +1,9 @@
-# js-kata-starter
+# addition-js
 
-Starter project for kata (Node, TypeScript, Jest)
+In this kata, you'll implement the addition of natural integers. Hence you should write a function that, given two numbers provided as strings, returns their sum as a string. You should not simply add the both ^\_^.
 
-## Installation
-
-```text
-git clone https://github.com/mathieueveillard/js-kata-starter.git
-cd js-kata-starter
-npm install
-```
-
-## Development
+Here is an example:
 
 ```text
-npm test
+add("121", "21103"); // "21224"
 ```
