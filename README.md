@@ -1,4 +1,4 @@
-# addition-js
+# addition
 
 In this kata, you'll implement the addition of natural integers. Hence you should write a function that, given two numbers provided as strings, returns their sum as a string. You should not simply add the both ^\_^.
 
